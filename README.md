@@ -24,6 +24,7 @@ An endless car game where random cars appear in front of us, and we try to progr
 ---
 
 * Unity
+* Version 2022.3.6f1
   
 ### Screenshots
 
